@@ -1,0 +1,16 @@
+
+@media (max-width:767px) {
+.shop_nav ul li {
+    padding: 5px 4px!important;
+}
+.wmn_prt h4{
+    transform: rotate(0deg)!important;
+}
+}
+@media (max-width:1170px) {
+	.shop_nav ul li {
+    padding: 12px 20px!important;
+}
+
+}
+

@@ -1,0 +1,265 @@
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+}
+a{
+	text-decoration:none!important;
+}
+ul li{
+	list-style:none;
+}
+.pd_0{
+	padding:0;
+}
+.mr_0{
+	margin:0;
+}
+.mr_b{
+	margin-bottom:0;
+}
+.pad_right{
+	padding-right:0;	
+}
+/*=======================  Share Icon Part ==============*/
+#bnr_prt{
+	width:100%;
+}
+	
+
+/*================= Nav ============*/
+#nav_prt{
+	width:100%;
+	  background:#775ba3;
+}
+.main_nav img{
+	padding-top:19px;
+}
+.pd0{
+	padding-left:0px;
+	padding-right:0px;
+}
+.img_prt img{
+	padding-top:19px;
+}
+.tgle_prt{
+	background-color:teal;
+}
+.tgle_prt:hover{
+	background-color:teal;
+	transition:all linear .5s;
+}
+.icon-bar.tgle_icn{
+	background-color:white;
+}
+.main_nav li a{
+	padding: 15px 20px;	
+	font-size:12px;
+	color:#fff;
+	font-weight:bold;
+	line-height:70px;
+	text-align:center;
+}
+.main_nav li a:hover{
+	transition:all linear .5s;
+	color:#F06292;
+}
+/*======navbar_part end======*/
+#guident_part{
+	width:100%;
+	background-color:#FFF;
+	padding-top:50px;
+	padding-bottom:50px;
+	border-bottom:1px solid #91c5a9;
+}
+.guident_txt h3{
+	color:#7e63a7;
+	font-size:20px;
+	font-weight:bold;
+}
+.guident_txt p{
+	color:#4b3f55;
+	font-size:12px;
+	font-weight:bold;
+}
+/*======navbar_part end======*/
+#Posté_part{
+	width:100%;
+	background-color:#FFF;
+	padding-top:50px;
+	padding-bottom:50px;
+	border-bottom:1px solid #91c5a9;
+}
+.icn_prt{
+	font-size:40px;
+	color:#4b3f55;
+	padd
+}
+.ic_crcl{
+	border: 2px solid #4b3f55;
+	border-radius: 100%;
+	padding: 20px 22px;
+	
+}
+.txt_prt_SPN{
+	font-size:36px;
+	color:#91c5a9;
+	font-weight:bold;
+}
+.txt_prt p{
+	font-size:10px;
+	color:#4b3f55;
+	font-weight:bold;
+	padding-top:20px;
+}
+/*======Posté_part end======*/
+#img_part{
+	width:100%;
+	background-color:#FFF;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.img_part_txt h3{
+	color:#7e63a7;
+	font-size:20px;
+	font-weight:bold;
+	padding-bottom:50px;
+}
+.img_img_prt img{
+	border-bottom:2px solid #91c5a9;
+}
+.img_img_txt h4{
+	border-bottom:2px solid #91c5a9;
+	color:#91c5a9;
+	font-size:13px;
+	font-weight:bold;
+	line-height: 32px;
+}
+.img_img_p p{
+	color:#4b3f55;
+	font-size:10px;
+	font-weight:bold;
+}
+.soical_icn_txt{
+	background-color:#3b5998;
+	padding:10px 15px;
+	color:#fff;
+}
+.soical_icn1_txt{
+	background-color:#d14333;
+	padding:10px 10px;
+	color:#fff;
+}
+/*======img_part end======*/
+#feature_prt{
+	width:100%;
+	background-color:#775ba3;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.feature_txt h3{
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+}
+.ftr_txt h3{
+	color:#fff;
+	font-size:17px;
+	font-weight:bold;
+	line-height:25px;
+}
+.ftr_para p{
+	color:#fff;
+	font-size:9px;
+}
+.ftre_ang{
+	padding-top:20px;
+}
+.ftr_angcor{
+	padding:10px 30px;
+	border:2px solid #fff;
+	color: #fff
+}
+.ftr_img img{
+	width:70%;
+}
+/*======feature_prt end======*/
+#txt_sldr_prt{
+	width:100%;
+	padding-bottom:50px;
+	padding-top:50px;
+}
+.imga_prt img{
+	border-radius:100%;
+	border:3px solid #419568;
+}
+.client_txt h3{
+	color:#4b3f55;	
+}
+.sldr_txt_prt{
+	padding-top:40px;
+}
+/*======feature_prt end======*/
+#portfolio{
+	width:100%;
+	padding-bottom:50px;
+	padding-top:50px;
+}
+/*======feature_prt end======*/
+#contact_part{
+	width:100%;
+	padding-bottom:50px;
+	padding-top:50px;
+	background-color:#91c5a9;
+}
+.about_us h5{
+	font-size:18px;
+	color:#fff;
+	padding-bottom:10px;
+	
+}
+.about_us p{
+	font-size:12px;
+	color:#fff;
+	
+}
+
+.list ul {
+	padding-left:10px;
+}
+.list ul li{
+	float:left;
+	color:#fff;
+	background-color:#419568;
+	padding:10px 10px;
+	font-size:11px;
+	
+}
+.from_txt{
+	color:#fff;
+	padding-top:10px;
+}
+
+
+/*======feature_prt end======*/
+#footer_part{
+	background:#21262a;
+	width:100%;
+}
+.footer_part_txt p {
+    color: #50585f;
+    line-height: 70px;
+    text-align: center;
+}
+.footer_part_nav li a {
+    color: #50585f;
+    padding: 25px 20px;
+    text-transform: uppercase;
+    transition: all 0.6s linear 0s;
+}
+.footer_part_nav li a:hover{
+	color:#21c2f8;
+	background:transparent;
+	transition:all linear .6s;
+}
+/*======ftr_part end======*/

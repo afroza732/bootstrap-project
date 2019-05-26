@@ -1,0 +1,10 @@
+@media (max-width: 480px) {
+	.logo_part img {
+    padding-left:135px!important;
+}
+}
+@media (max-width:767px) {
+.logo_part img {
+    padding-left:330px!important;
+}
+}

@@ -1,0 +1,14 @@
+/*================ XS Device ====================*/
+@media (max-width:480px) {
+	.ftr_icn ul li{
+	padding:40px 10px!important;
+
+}
+@media (max-width:380px) {
+	.Ecorce_txt h1 {
+    padding: 15px 141px!important;
+}
+
+}
+}
+	

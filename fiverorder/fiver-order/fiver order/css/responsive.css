@@ -1,0 +1,152 @@
+@media (max-width: 380px) {
+.txt_prt h1{
+	font-size:25px!important;
+	letter-spacing:6px !important;
+	}
+.abt_txt h2 {
+    font-size: 20px !important;
+}
+.srvc_txt h2{
+	font-size: 20px !important;
+}
+.abt_txt p{
+	font-size:10px !important;
+}
+.txt_prt h3{
+		color:red !important;
+		font-size: 15px !important;
+	}
+.quis_prt {
+    font-size: 11px !important;
+}
+.srvc_txt h2 {
+		font-size: 30px !important;
+}
+.srvc_txt p {
+    font-size: 9px !important;
+}
+h3 {
+    font-size: 12px !important;
+}
+p{
+  font-size: 9px !important;
+}
+.mywork_content h2 {
+	font-size: 20px !important;
+}
+.icn1_prt i {
+    font-size: 30px !important;
+}
+.overlay h4{
+	font-size:10px !important;
+}
+.overlay p{
+	font-size:5px !important;
+}
+.contct_txt h2{
+	font-size: 20px !important;
+}
+#about_content{
+	padding-top:70px !important;
+	padding-bottom:70px !important;
+}
+#mywork_prt{
+	padding-top:50px !important;
+	padding-bottom:50px !important;
+}
+#contact_prt{
+	padding-top:50px;
+	padding-bottom:50px;
+}
+}
+@media (max-width: 480px) {
+	#bnnr_prt{
+		padding-top: 50px !important;
+		padding-bottom: 50px !important;
+	}	
+	.txt_prt h1{
+		font-size:25px!important;
+		letter-spacing:6px !important;
+	}
+	.abt_txt p{
+		font-size:12px;
+}
+@media (max-width: 480px) {
+	.img_txt h4 {
+    font-size: 12px !important;
+}
+    .sp_1 {
+    font-size: 13px !important;
+}
+}
+@media (max-width: 480px) {
+	.after::before {
+	width: 183px !important;
+	bottom: -19px !important;
+	height: 1px !important;
+	left: 286px !important;
+}
+}
+@media (max-width:767px) {
+	.after::before {
+    width:293px !important;
+    bottom: -21px !important;
+    left:170px !important;
+}
+}
+.mywork_content h2 {
+	font-size: 20px !important;
+}
+.contct_txt h2{
+	font-size: 20px !important;
+}
+#mywork_prt{
+	padding-top:50px !important;
+	padding-bottom:50px !important;
+}	
+}
+@media (min-width:481px) and (max-width:767px) {
+	.packages_item{
+		width:50% !important;
+	}
+	.icn_19 p{
+		font-size:48px;
+	}
+	.recent_title h3{
+		padding-top:30px!important;
+	}
+	.recent_Posts p {
+		padding: 6px 0!important;
+	}
+	.twitter_post p {
+		padding: 6px 0!important;
+	}
+	.twitter_title h3{
+		padding-top:30px!important;
+	}
+	.flickr_title h3{
+		padding-top:30px!important;
+	}
+	.ftr_txt ul li {
+		font-size: 10px!important;
+	}
+	.share_icn {
+		float: left!important;
+		padding-left:100px!important;
+		padding-top:15px! important;
+	}
+	.share_icn ul li {
+		float: left!important;
+	}
+	.share_icn ul li a {
+		font-size:16px!important;
+	}
+	#bck_to_top {
+		bottom: 100px!important;
+		right: 20px!important;
+	}
+	#bck_to_top i {
+		font-size: 16px!important;
+		padding: 4px 6px!important;
+	}
+}

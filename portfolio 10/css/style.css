@@ -1,0 +1,278 @@
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+}
+a{
+	text-decoration:none!important;
+}
+ul li{
+	list-style:none;
+}
+.pd_0{
+	padding:0;
+}
+.mr_0{
+	margin:0;
+}
+.mgb_0{
+	margin-bottom:0;
+}
+.mrn_lft{
+	margin-left: -7px;
+}
+.mrn_top{
+	margin-top:10px;
+	border:0;
+}
+/*=======================  lgo_prt ==============*/
+#lgo_prt{
+	width:100%;
+	background:#fff;
+}
+.lgo_nav{
+	padding: 4px 20px;
+    padding-bottom: 4px;
+	background: #71b153;
+	padding-bottom: 16px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+}
+.lgo_nav ul li{
+	float:left;
+	padding:5px 5px;
+	font-size:10px;
+	text-transform:uppercase;
+	color:#fff;
+
+}
+/*========================== nv_prt ===============*/
+#nv_prt{
+	width:100%;
+	background-color:#fff;
+}
+.lgo_prt img{
+    padding-left: 84px;
+	padding-top: 6px;
+}
+.lgo_prt h3:hover{
+    color: #f2d7f0;
+}
+.tgle_prt{
+	background-color:teal;
+}
+.tgle_prt:hover{
+	background-color:teal;
+	transition:all linear .5s;
+}
+.icon-bar.tgle_icn{
+	background-color:white;
+}
+.main_nav li a{
+	padding: 15px 20px;	
+	font-size:12px;
+	color:#575757;
+	font-weight:bold;
+	line-height: 50px;
+	text-align:center;
+}
+.main_nav li a:hover{
+	background-color:transparent;
+}
+/*========================== Ecomrce_part ===============*/
+/*========================== bnr_prt ===============*/
+#bnr_prt{
+	width:100%;
+	background:#fff;
+	border-bottom:1px solid #8c8c8c;
+	border-top:1px solid #8c8c8c;
+	padding-bottom:20px;
+}
+.para h3{
+	font-size:10px;
+	padding-top:5px;
+	color:#fff;
+}
+.para h3 span{
+	font-size:20px;
+	font-weight: bold;
+}
+.slide{
+	position:relative;
+}
+.round_prt{
+	height: 130px;
+	width: 130px;
+	background: #789468;
+	border-radius: 50%;
+	position: absolute;
+	bottom: 96px;
+	left: 50px;
+}
+.angkor_prt{
+	padding:3px 5px;
+	border: 1px solid #fff;
+	background:#2f9dce;
+}
+.bnr_txt h4{
+	font-size:23px;
+	color:#71b153;
+}
+/*========================== bnr_prt ===============*/
+#img_part{
+	width:100%;
+	background:#fff;
+	padding-top:20px;
+	padding-bottom:30px;
+	border-bottom:1px solid #8c8c8c;
+}
+.img_img img{
+	border-bottom:2px solid #c0d8dc;
+}
+.img_img_txt h6{
+	font-size:11px;
+	color:#c0d8dc;
+		
+}
+.img_img_para p{
+	font-size:12px;
+	font-weight:bold;
+}
+.img_ang {
+	padding-top:30px;
+}
+.ang_bdr{
+	padding:3px 15px;
+	background:#3ea5d2;
+	font-size:30px;
+	color:#fff;
+}
+/*========================== img_part ===============*/
+#welcm_part{
+	width:100%;
+	background:#fff;
+	padding-top:20px;
+	padding-bottom:30px;
+	border-bottom:1px solid #8c8c8c;
+}
+.wlcm_prt h3{
+	color:#c0d8dc;
+	font-weight:bold;
+}
+.wlcm_prt p{
+	font-size:11px;	
+}
+.wlcm_prt a{
+	color:#000;
+	font-size:10px;
+}
+.latest_txt h3{
+	color:#c0d8dc;
+}
+/*========================== img_part ===============*/
+#latest_part{
+	width:100%;
+	background:#f0e9e5;
+	padding-bottom:50px;
+	border-bottom:1px solid #8c8c8c;
+}
+.img_im img{
+	border:1px solid #8c8c8c;
+	width: 100%;
+}
+.latest_txt p{
+	font-size:12px;
+	padding-top:40px;
+}
+.latest_txt {
+	padding-top:30px;
+}
+.latest_txt a{
+	color:#fff;
+	font-size:20px;
+}
+.latest_bdr {
+	padding:10px 15px;
+	background:#2f9dce;
+}
+/*========================== img_part ===============*/
+#search_prt{
+	width:100%;
+	background:#82af6d;
+	padding-top:20px;
+	padding-bottom:20px;
+	border-bottom:1px solid #8c8c8c;
+}
+.search_txt h3{
+	padding:0;
+	margin:0;
+	line-height: 53px;
+	color: #fff;
+}
+.form-control {
+    height: 45px;
+    padding: 9px 73px;
+    background-color: transparent;
+    border: 1px solid #3b3b3b;
+	font-size:12px;
+	color:#fff!important;
+	position:relative;
+}
+.my_btn{
+    height: 45px;
+    background-color:#3b3b3b;
+	position:absolute;
+	right: 64px;
+	color:#fff;
+}
+/*========================== img_part ===============*/
+#contact_prt{
+	width:100%;
+	background:#476888;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.cntct_text p{
+	color: #fff;
+	font-size: 17px;
+}
+.lin ul li{
+	font-size:12px;
+	color: #fff;
+	font-weight: bold;
+	text-decoration:underline;
+
+}
+.form-control {
+    background-color: transparent;
+} 
+.cntact_nav ul li{
+	float:left;
+	color:#476888;
+	font-size:20px;
+	padding:10px 5px;
+	
+}
+.cntact_icn:hover{
+	background:#00547a;
+}
+.cntact_icn{
+	padding: 2px 9px;
+	background: #fff;
+	border-radius: 5px
+}
+.find h6{
+	color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+}
+/*========================== ftr_prt ===============*/
+#ftr_prt{
+	width:100%;
+	background:#006592;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.ftr_txt p{
+	color:#fff;
+}

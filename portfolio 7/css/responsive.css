@@ -1,0 +1,45 @@
+@media (max-width: 480px) {
+	.ovrly_txt h1 {
+    font-size: 21px!important;
+}
+}
+@media (max-width: 380px) {
+	.ovrly_txt h1 {
+    font-size: 21px!important;
+}
+}
+@media (max-width: 767px) {
+	.ovrly_txt h1 {
+    font-size: 21px!important;
+}
+}
+/*========================overly end==========================*/
+@media (max-width: 480px) {
+	.icna_prt i {
+    padding-left: 0px!important;
+}
+.ica_txt h3 {
+    font-size: 16px!important;
+}
+}
+@media (max-width: 380px) {
+.template_Prt {
+    width: 354px!important;
+}
+.template_Prt p {
+    font-size: 11px!important;
+   
+}
+}
+@media (max-width: 480px) {
+	.template_Prt {
+    width: 438px!important;
+  
+}
+}
+/*========================template_Prt end==========================*/
+@media (max-width: 480px) {
+	.ftr_nav ul li {
+    padding-left: 8px!important;
+}
+/*========================template_Prt end==========================*/

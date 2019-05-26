@@ -1,0 +1,208 @@
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+}
+a{
+	text-decoration:none!important;
+}
+ul li{
+	list-style:none;
+}
+.pd_0{
+	padding:0;
+}
+.mr_0{
+	margin:0;
+}
+.mr_b{
+	margin-bottom:0;
+}
+.mrn_lft{
+	margin-left: -7px;
+}
+.mrn_top{
+	margin-top:10px;
+	border:0;
+}
+/*======================= bnr_prt ==============*/
+#bnr_prt{
+	width:100%;
+	background:url(../img/bnr.jpg) no-repeat 0 0 /100% 100%;
+	padding-bottom:300px;
+	position:relative;
+}
+.bnr_prt_txt p{
+	color:#fff;
+	font-size:10px;
+}
+.bnr_prt_txt img{
+	width: 6%;
+	padding-top:15px;
+}
+/*======================= bnr_prt ==============*/
+#nv_prt{
+	width:100%;
+	background:#fff;
+	padding-bottom:20px;
+	border-bottom:3px solid #82867d;
+}
+.nav_prt{
+	position:absolute;
+	bottom:-37px;
+}
+.nav_prt ul li{
+	float: left;
+	padding:29px 31px;
+	background:#8dbb4b;
+	border-right: 3px solid #94c749;
+	color:#fff;
+
+}
+.nav_prt ul li:hover{
+	background:#a4c96f;
+}
+.nv_txt ul li{
+	float: left;
+	padding:0px 30px;
+	color:#8dbb4b;
+	font-size:10px;
+
+}
+/*======================= about_prt ==============*/
+#about_prt{
+	width:100%;
+	background:#d2dbc5;
+	padding-top:30px;
+	padding-bottom:50px;
+	border-bottom:3px solid #82867d;
+}
+.ang_prt{
+	padding: 10px 15px;
+	background:#8dbb4b;
+	color:#fff;
+	font-size:10px;
+
+}
+.offer_txt h3 span{
+	color:#8dbb4b;
+	font-size:30px;
+}
+.pblm_txt h5{
+	color:#8dbb4b;
+	font-size:15px;
+	line-height: 42px;
+}
+.solu_txt h5{
+	color:#8dbb4b;
+	font-size:15px;
+	line-height: 42px;
+}
+.pblm_nv ul li{
+	font-size:12px;
+	border-right:2px solid #fff;
+	line-height:23px;
+}
+.solu_nv ul li{
+	font-size:12px;
+	line-height:23px;
+}
+/*======================= oredr_prt ==============*/
+#oredr_prt{
+	width:100%;
+	background:#fff;
+	padding-top:80px;
+	padding-bottom:50px;
+	
+}
+.oredr_txt{
+	padding-bottom:50px;
+}
+.oredr_top{
+	padding-top:50px;
+}
+.bdr_bttm{
+	border-bottom:3px dotted #82867d;
+}
+.oredr_nav{
+	background:url(../img/1.jpg) no-repeat 0 0 /100% 100%;
+	padding-bottom:90px;
+	padding-top:20px;
+}
+.oredr_img h5{
+	padding-left:36px;
+    line-height: 42px;
+
+}
+.oredr_text h5{
+	line-height:36px;
+}
+.oredr_text{
+	padding-left:59px;
+    padding-top:4px;
+}
+.crcl{
+	height:39px;
+	width:41px;
+	border-radius:100%;
+	background:#FFF;
+}
+
+/*======================= bnr_prt ==============*/
+#ftr_prt{
+		width:100%;
+		background-color:#85c75e;
+		padding-top:50px;
+		padding-bottom:20px;
+		
+}	
+.ftr_txt h3{
+	color:#fff;
+	font-size:20px;
+	font-weight:bold;
+	font-family:verdana;
+	margin:0;
+}
+.ftr_nav ul li{
+	color: #fff;
+	font-size: 11px;
+	font-weight: bold;
+	line-height: 25px;
+	text-decoration: underline;
+
+}
+.ftr_icn i{
+	color: #419113;
+	font-size: 15px;
+	padding: 0;
+
+}
+.ftr_icn_txt p{
+	color: #fff;
+	font-size: 12px;
+	padding: 0;
+	font-weight: bold;
+
+}
+/*======================= bnr_prt ==============*/
+#last_prt{
+		width:100%;
+		background-color:#419113;
+		padding-top:20px;
+		padding-bottom:10px;
+		
+}	
+.last_txt_prt p{
+	color: #fff;
+	font-size: 12px;
+	padding: 0;
+	font-weight: bold;
+
+}
+.form-control {
+    background-color:#419113;
+	border:none;
+}
+.form-con
+
+/*======================= bnr_prt ==============*/

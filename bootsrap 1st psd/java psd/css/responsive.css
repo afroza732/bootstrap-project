@@ -1,0 +1,120 @@
+@media (max-width: 480px) {
+	#bnr_prt{
+	padding-top: 130px;
+	padding-bottom: 92px;
+}
+.txt_prt h1 {
+    color: blue !important;
+    font-size: 20px !important;
+    letter-spacing: 10px !important;
+}
+.txt_prt p {
+  font-size:16px !important;  
+}
+}
+@media (max-width: 767px) {
+.txt_prt h1 {
+    color: red !important;
+    font-size:25px !important;
+    letter-spacing: 14px !important;
+}
+.txt_prt p {
+  font-size:16px !important;  
+}
+}
+/*------------- bnr prt end*--------------------------*/
+@media (max-width:480px) {
+.txt_prt p {
+  font-size:14px !important;  
+}
+}
+@media (max-width: 767px) {
+.about_txt_prt h3 {
+    font-size: 20px !important;
+}
+.about_txt_prt p {
+    font-size: 10px !important;
+}
+.about_txt_prt p span {
+    font-size: 12px !important;
+}
+.icon_prt p {
+    font-size: 9px !important;
+}
+.icon_prt h3 {
+    font-size: 16px !important;
+}
+}
+/*------------- about prt end*--------------------------*/
+@media (max-width:480px) {
+#service_prt  {
+    padding-top:40px !important ;
+	padding-bottom:40px !important;
+}
+.srvc_txt_prt h3 {
+    font-size: 20px !important ;
+}
+.srvc_txt_prt p {
+    font-size:9px !important ;
+}
+}
+@media (max-width:767px) {
+.srvc_txt_prt h2 {
+    font-size: 18px !important;
+}
+.srvc_txt_prt span {
+    font-size:12px !important;
+}
+.service_icn i {
+    font-size: 25px !important;
+}
+.service_icn h3 {
+    font-size:10px !important;
+}
+.service_icn p {
+    font-size:10px !important;
+}
+}
+@media (max-width:480px) {
+.work_txt_prt h3 {
+	font-size: 20px ;
+}
+.work_txt_prt span {
+    font-size: 12px !important;
+    color: #7e8287!important;
+}
+.work_txt_prt p {
+    font-size: 10px !important;
+}
+
+}
+/*----------------work_prt end-----------------*/
+@media (max-width:480px) {
+.overlay p {
+    font-size: 10px!important;
+}
+
+.overlay h3 {
+    font-size: 15px !important;
+    color: blue !important;
+	padding-top:10px !important;
+}
+}
+/*----------------overlay end-----------------*/
+@media (max-width:480px) {
+.contact_txt_prt h3 {
+    font-size:20px!important;
+	
+}
+.contact_txt_prt  span {
+    font-size: 12px !important;
+}
+.contact_txt_prt p {
+    font-size: 10px !important;
+}
+@media (max-width:480px) {
+.ftr_txt_prt p {
+    font-size: 12px !important;
+    line-height: 8px !important;
+}
+}

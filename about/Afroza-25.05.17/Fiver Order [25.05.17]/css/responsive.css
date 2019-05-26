@@ -1,0 +1,125 @@
+/*================ XS Device ====================*/
+@media (max-width:480px) {
+	.link ul li a {
+		font-size:8px !important;
+		padding-left:0 !important;
+	}
+	.packages_item{
+		width:100% !important;
+	}
+	.p_icn_19 {
+		text-align: right !important;
+	}
+	.packages_item {
+		margin-bottom:20px !important;
+	}
+	.logo_txt p{
+		margin-bottom:25px !important;
+	}
+	.recent_title h3{
+		padding-top:30px!important;
+	}
+	.recent_Posts p {
+		padding: 6px 0!important;
+	}
+	.twitter_post p {
+		padding: 6px 0!important;
+	}
+	.twitter_title h3{
+		padding-top:30px!important;
+	}
+	.flickr_title h3{
+		padding-top:30px!important;
+	}
+	.ftr_txt ul li {
+		font-size: 10px!important;
+	}
+	.share_icn {
+		float: left!important;
+		padding-left:100px!important;
+		padding-top:15px! important;
+	}
+	.share_icn ul li {
+		float: left!important;
+	}
+	.share_icn ul li a {
+		font-size:16px!important;
+	}
+	#bck_to_top {
+		bottom: 100px!important;
+		right: 20px!important;
+	}
+	#bck_to_top i {
+		font-size: 16px!important;
+		padding: 4px 6px!important;
+	}
+	
+}
+@media (min-width:481px) and (max-width:767px) {
+	.packages_item{
+		width:50% !important;
+	}
+	.icn_19 p{
+		font-size:48px;
+	}
+	.recent_title h3{
+		padding-top:30px!important;
+	}
+	.recent_Posts p {
+		padding: 6px 0!important;
+	}
+	.twitter_post p {
+		padding: 6px 0!important;
+	}
+	.twitter_title h3{
+		padding-top:30px!important;
+	}
+	.flickr_title h3{
+		padding-top:30px!important;
+	}
+	.ftr_txt ul li {
+		font-size: 10px!important;
+	}
+	.share_icn {
+		float: left!important;
+		padding-left:100px!important;
+		padding-top:15px! important;
+	}
+	.share_icn ul li {
+		float: left!important;
+	}
+	.share_icn ul li a {
+		font-size:16px!important;
+	}
+	#bck_to_top {
+		bottom: 100px!important;
+		right: 20px!important;
+	}
+	#bck_to_top i {
+		font-size: 16px!important;
+		padding: 4px 6px!important;
+	}
+}
+/*================ Sm Device ====================*/
+@media (min-width:768px) and (max-width:991px) {
+	.my_brand{
+		padding:12px 0 0 0 !important;	
+	}
+	.packages_item{
+		width:50% !important;
+	}
+	.packages_item {
+		margin-bottom:20px !important;
+	}
+	#bck_to_top {
+		bottom: 35px!important;
+		right: 35px!important;
+	}
+	#bck_to_top i {
+		font-size: 26px!important;
+		padding: 8px 13px!important;
+	}
+	.ftr_txt ul li {
+		font-size: 8px!important;
+	}
+}

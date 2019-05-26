@@ -1,0 +1,307 @@
+*{
+	margin:0;
+	padding:0;
+	outline:0;
+}
+a{
+	text-decoration:none;
+}
+ul li{
+	list-style:none;
+}
+
+.pd0{
+	padding:0;
+}
+.mr_0{
+	margin:0;
+}
+body{	
+}
+/*================ lgo_prt ============*/
+#lgo_prt{
+	width:100%;
+	background:#fff;
+	padding-bottom:10px;
+}
+.logo_prt img{
+	padding-top:10px;
+}
+.logo_nav ul li{
+	float:left;
+	padding: 10px 6px;
+}
+.fnt_rds  {
+	background: #ef4c25;
+	padding: 6px 6px;
+	color: #fff;
+	font-weight:bold;
+	border: 1px solid #c00;
+	border-radius: 4px;
+}
+.fnt_rds:hover {
+	background: #31465b;
+
+}
+.btn {
+    margin-left: -11px;
+    background:#31465b;
+	color:#fff;
+}
+.para p{
+	line-height: 27px;
+	font-size: 10px;
+	font-weight: bold;
+}
+.srch_img {
+    padding-left: 20px;
+
+}
+.lgo_nv ul li{
+	float:left;
+	color:#fff;
+	padding:10px 15px;
+	font-size:12px;
+	font-weight:bold;
+	background:#ef4c25;
+	border-right:1px solid #fff;
+}
+.lgo_nv ul li:hover{
+	background:#31465b;
+}
+/*================  bnr_prt Part ============*/
+#bnr_prt{
+	width:100%;
+	background:url(../img/bnr.jpg) no-repeat 0 0 /100% 100%;
+	padding-top:200px;
+	padding-bottom:200px;
+	position:relative;
+}
+/*================ design_prt============*/
+#design_prt{
+	width:100%;
+	background:#fff;
+	padding-bottom:10px;
+}
+.font-awesome{
+	padding:10px 15px;
+	background:#31465b;
+}
+.font-awesome:hover{
+	background:#e14616;
+}
+.font-awesome i{
+	font-size:40px;
+	color:#fff;
+}
+.font-awesome h4{
+	font-size:12px;
+	color:#fff;
+}
+.dsgn_para p{
+    font-size: 9px;
+    text-align: justify;
+}
+.ang_prt{
+	padding: 7px 9px;
+	background:#31465b;
+	color:#fff;
+	font-size:12px;
+	text-transform:uppercase;
+
+}
+.ang_prt:hover{
+	background:#e14616;
+}
+.frm_prt{
+	position: absolute;
+	bottom:-230px;
+	background-color:#FFF;
+}
+.frm_txt{
+	padding: 5px 23px;
+	background: #31465b;
+	font-size: 11px;
+}
+.frm_txt h4{
+	font-size: 12px;
+}
+.frm_p{
+	font-size:9px;
+}
+.form-control1{
+    height: 21px;
+    padding: 6px 12px;
+    font-size: 9px;
+}
+.frm_ang{
+	padding: 7px 9px;
+	background:#e14616;
+	color:#fff;
+	font-size:20px;
+	text-transform:uppercase;
+
+}
+.frm1_ang{
+	padding: 7px 9px;
+	background:#e14616;
+	color:#fff;
+	font-size:12px;
+	text-transform:uppercase;
+
+}
+.q-ury_prt p{
+	font-size:9px;
+	color:#e14616;
+}
+.frm_icn_txt p{
+	font-size: 8px;
+	font-weight: bold;
+	line-height: 13px;
+
+}
+.us_para p{
+	font-size:9px;
+	padding-bottom: 14px;
+
+}
+.usa_para p{
+	font-size: 9px;
+	padding-top: 25px;
+
+}
+
+/*================  recent_prt  ============*/
+#recent_prt{
+	width:100%;
+	background:#31465b;
+	padding-top:10px;
+	padding-bottom:10px;
+}
+.recent_text h2{
+	font-size:25px;
+	color:#fff;
+	font-weight:bold;
+	padding-bottom:10px;
+}
+.img_prt img{
+	border:1px solid #e0e0e0;
+}
+.img_txt h5{
+	font-size:12px;
+	color:#fff;
+	font-weight:bold;
+	
+}
+/*================ get_prt Part ============*/
+#get_prt{
+	width:100%;
+	background:#fff;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.get_txt{
+	position:relative;
+}
+.img_img img{
+	position:absolute;
+	bottom: -29px;
+	left: -204px;
+
+}
+.get_img_txt h3{
+	font-size:20px;
+	font-weight:bold;
+	
+}
+.img_txt_ang {
+	padding-top:20px;
+	
+}
+.get_img_txt p{
+	font-size:10px;
+	font-weight:bold;
+	
+}
+/*================ get_prt Part ============*/
+#clients_prt{
+	width:100%;
+	background:#fff;
+	padding-top:50px;
+	padding-bottom:50px;
+}
+.padd_prt{
+	padding-top: 82px;
+	position:relative;
+}
+.client_img img{
+	position:absolute;
+	left: -152px;
+	bottom: -115px;
+
+}
+.carousel-indicators li {
+    background-color:#e14417;
+    
+}
+.sldr_txt p{
+	font-size:10px;
+	
+}
+/*================ chat_prt Part ============*/
+#chat_prt{
+	width:100%;
+	background:#31465b;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.chat_icn i{
+	color:#fff;
+}
+.chat_icn p{
+	color:#fff;
+	font-size:9px;
+	font-weight:bold;
+}
+/*================ contact_prt Part ============*/
+#contact_prt{
+	width:100%;
+	background:#476888;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.cntct_text p{
+	color: #fff;
+}
+.lin ul li{
+	font-size: 9px;
+	color: #fff;
+	font-weight: bold;
+
+}
+.form-control {
+    background-color: transparent;
+} 
+.cntact_nav ul li{
+	float:left;
+	color:#476888;
+	font-size:20px;
+	padding:34px 5px;
+}
+.cntact_icn:hover{
+	background:rgb(225,70,22)
+}
+.cntact_icn{
+	padding:5px 10px;
+	background:#fff;
+}
+/*================ ftr_prt Part ============*/
+#ftr_prt{
+	width:100%;
+	background:rgb(225,70,22);
+	padding-top:20px;
+	padding-bottom:20px;
+}
+.ftr_txt p{
+	color:#fff;
+}
